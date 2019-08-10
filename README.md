@@ -1,3 +1,1 @@
-"# Memory-Card-Game" 
-"# Verlet-Integration" 
-"# Verlet-Integration" 
+A simple memory card game using Japanese Kanji.
